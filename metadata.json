@@ -1,0 +1,8 @@
+{
+  "name": "Remix yadav ai",
+  "description": "ChatGPT-inspired intelligent AI assistant powered by Google Gemini with voice input, speech synthesis, multimodal photo queries, Hindi/English/Hinglish understanding, and rich markdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
